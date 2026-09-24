@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/agent-forge"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/Automate-Capture/agent-forge"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
   <a href="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version"></a>
-  <a href="https://github.com/Lumi-node/agent-forge"><img src="https://img.shields.io/badge/Tests-22-green.svg" alt="Tests"></a>
+  <a href="https://github.com/Automate-Capture/agent-forge"><img src="https://img.shields.io/badge/Tests-22-green.svg" alt="Tests"></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ This project serves as an excellent educational artifact for researchers and stu
 Requires Python 3.10+. No external dependencies.
 
 ```bash
-git clone https://github.com/Lumi-node/agent-forge.git
+git clone https://github.com/Automate-Capture/agent-forge.git
 cd agent-forge
 python main.py
 ```
